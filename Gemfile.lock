@@ -78,7 +78,7 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (1.8.2)
-    kimonolabs (0.0.1)
+    kimonolabs (0.0.2)
       httparty
     loofah (2.0.1)
       nokogiri (>= 1.5.9)
@@ -176,7 +176,7 @@ DEPENDENCIES
   font-awesome-rails
   jbuilder (~> 2.0)
   jquery-rails
-  kimonolabs
+  kimonolabs (~> 0.0.2)
   materialize-sass
   pg
   rails (= 4.2.0)
