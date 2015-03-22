@@ -33,3 +33,13 @@
 .blue-grey.lighten-2:hover {
 	background-color: #99C4DA !important;
 }
+
+body {
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
