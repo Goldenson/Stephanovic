@@ -18,16 +18,21 @@
 @import "materialize";
 @import "font-awesome";
 
+.marge-bottom-25 {
+  margin-bottom: 25px;
+}
+
 .pad-top-30 {
 	padding-top: 30px;
 }
 
 #icon1 {
-	margin-top: 20px;
+	margin-top: 40px;
 }
 
 #icon2 {
-	margin-bottom: 4px;
+	margin-bottom: 25px;
+  margin-top: 35px;
 }
 
 .blue-grey.lighten-2:hover {

@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'materialize-sass'
 
-gem 'kimonolabs', '~> 0.0.2'
+gem 'kimonolabs', '~> 0.0.3'
 
 gem "font-awesome-rails"
 
